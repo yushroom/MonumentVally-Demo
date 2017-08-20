@@ -1787,8 +1787,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a86d5b10fc6874b658bbae20a353ee55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deltaEulerAngles: {x: 0, y: 90, z: 0}
   time: 1
-  isPlaying: 0
+  delay: 0
+  once: 0
 --- !u!1001 &710057830
 Prefab:
   m_ObjectHideFlags: 0
